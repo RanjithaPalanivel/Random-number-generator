@@ -1,0 +1,14 @@
+.head{
+    background-color:black;
+    color: rgb(205, 205, 125);
+    width: 700px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 80px;
+}
+.button{
+    margin: 100px;
+}
+.number{
+    margin: 100px;
+}
